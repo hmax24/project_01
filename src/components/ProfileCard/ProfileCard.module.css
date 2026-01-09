@@ -1,0 +1,20 @@
+.profileCard img{
+    width: 250px;
+    border-radius: 30px;
+    border: 1px solid gray;
+}
+
+.profileCard{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    min-width: 350px;
+    box-sizing: border-box;
+    border-radius: 30px;
+    border: 1px solid lightcoral;
+    background-color: lightblue;
+    padding: 24px;
+    margin: 28px;
+    font-size: 24px;
+    color: lightcoral;
+}
